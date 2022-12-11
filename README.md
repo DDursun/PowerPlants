@@ -1,5 +1,6 @@
-# SolarPowerPlants
-## The in-depth analysis of 4 csv files containing the different types of data
+# Solar Power Plants
+
+The projects constitues in depth analysis of four tables containing solar power plant data. The goal was to identify faulty 
 
 
 
